@@ -5,7 +5,7 @@
 }
 
 button {
-  padding: 1% 6%;
+  padding: 1% 0, 5;
   background-color: rgba(254, 254, 81, 0.902);
   border: 1px solid gray;
   border-radius: 10%;
@@ -69,6 +69,10 @@ body {
 
 .menu {
   background-color: rgba(255, 255, 255, 0.653);
+}
+
+.arrays {
+  background-color: rgb(198, 198, 119);
 }
 
 header {
